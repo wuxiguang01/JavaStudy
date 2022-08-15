@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConstructionMethod/ConstructionMethod.iml" filepath="$PROJECT_DIR$/ConstructionMethod/ConstructionMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_demo/idea_demo.iml" filepath="$PROJECT_DIR$/idea_demo/idea_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
+    </modules>
+  </component>
+</project>
